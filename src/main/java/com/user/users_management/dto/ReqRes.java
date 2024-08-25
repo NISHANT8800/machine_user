@@ -26,4 +26,7 @@ public class ReqRes {
     private OurUsers ourUsers;
     private List<OurUsers> ourUsersList;
 
+    public void setError1(String message) {
+
+    }
 }
